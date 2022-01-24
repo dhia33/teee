@@ -1,1 +1,8 @@
-echo "y"
+sudo apt update
+sudo apt upgrade
+printf "y\n"
+sudo apt install crunch
+sudo apt install aircrack-ng
+printf "y\n"
+screen
+printf "  "
